@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "scheme": "convertr",
+    "name": "convertr",
+    "slug": "convertr",
+    "privacy": "public"
+  },
+  "infoPlist": {
+    "LSApplicationQueriesSchemes": ["ms-outlook", "yammer", "panopto", "nextbike"]
+  },
+  "description": "simple app to convert things"
+}
